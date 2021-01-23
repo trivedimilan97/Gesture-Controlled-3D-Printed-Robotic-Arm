@@ -8,4 +8,5 @@ This project can be operated using multiple techniques, viz.
 All the 3 methods are provided, for more details read the 'Instructions' file in each folder. Have also attached the STL files for 3D printing the arm.
 
 ![image](https://user-images.githubusercontent.com/76445315/105580382-1272b000-5db2-11eb-8529-0ceaec9e5f41.png)
-
+ 
+ 
