@@ -1,5 +1,5 @@
 # Gesture-Controlled-3D-Printed-Robotic-Arm
-The robotic arm is controlled with the help of hand gestures which transmit signals to the robot through a device fixed on the hand gloves.
+The robotic arm is controlled with the help of hand gestures which transmit signals to the robot through a device fixed on the hand gloves using Arduino uno and Flex sensors.
 This project can be operated using multiple techniques, viz.
 1) Wirelessly using nRF24L01 transceiver module.
 2) In case facing troubles using the RF module, the output can be achieved with a wired mechanism.
